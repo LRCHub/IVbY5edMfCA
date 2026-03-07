@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "シンデレラボーイ",
+  "base_artist": "Saucy Dog",
+  "createdAt": "2026-03-07T09:58:29.344009Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シンデレラボーイ",
+      "artist": "Saucy Dog",
+      "has_synced": false,
+      "path": "select/pl_01_シンデレラボーイ_Saucy_Dog.txt"
+    }
+  ]
+}
